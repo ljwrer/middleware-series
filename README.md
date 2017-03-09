@@ -12,8 +12,8 @@ npm install middleware-series
 ## series(middlewares...)
 
 ```js
-var series = require('middleware-series');
-var app = require('express')();
+const series = require('middleware-series');
+const app = require('express')();
 
 app.use(series(mw1, mw2, mw2)); // equivalent to app.use(mw1, mw2, mw3);
 ```
