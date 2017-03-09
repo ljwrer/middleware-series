@@ -1,0 +1,20 @@
+{
+    "name": "middleware-series",
+    "version": "1.0.0",
+    "description": "combine express middleware into one middleware",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["combine", "express", "middleware"],
+    "author": "ljwrer",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ljwrer/middleware-series.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ljwrer/middleware-series/issues"
+    },
+    "homepage": "https://github.com/ljwrer/middleware-series"
+}
